@@ -1,0 +1,32 @@
+body{
+  
+   margin:60px 250px;
+}
+.table{
+    background-color: rgb(226, 223, 230);
+ 
+   font-size: 17px;
+   font-style: oblique;
+   text-align: center;
+}
+th{
+    color: whitesmoke;
+    font-size: 25px;
+    font-weight: 900;
+}
+button{
+    padding:6px 17px;
+    margin: 1px 1px;
+    border-radius: 10px;
+}
+#active{
+    background-color: rgb(21, 21, 253);
+    color: aliceblue;
+}
+#dark{
+    background-color:gray;
+    color: aliceblue;
+}
+#normal{
+    background-color: darkgray;
+}
